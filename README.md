@@ -12,15 +12,13 @@ A blog post upon my research around Joy Lane hospital in Whitstable, Kent.
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q964785"> <!-- Whitstable -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
+<param ve-entity eid="Q76927"> <!-- Mary of Teck -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Beginnings
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+It started with just a postcard of a house in early 1900s', with only the name of location to go by. So far, this was a great start, I found the directory through "street and trade directories" 
 
 # After Queen Mary
 
@@ -51,4 +49,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]:
+[^2]: http://specialcollections.le.ac.uk/digital/collection/p16445coll4
