@@ -22,18 +22,10 @@ It started with just a postcard of a house in early 1900s', with only the name o
 
 # After Queen Mary
 
-              label="Queen Mary of Teck"
-              description="Queen Mary and King George V"
-              license="Public domain"
-              url="https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fpicryl.com%2Fmedia%2Fmary-of-teck-3-8bae3f&psig=AOvVaw2FhLzikxt3zI_Y6fVZyvWu&ust=1648395221012000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCZ1uCM5PYCFQAAAAAdAAAAABAD"
 
 ## Image
 
 
-       label="Whitstable" 
-       description="Taken from Wikipedia" 
-       license="public domain" 
-       url="https://en.wikipedia.org/wiki/Whitstable"
 
 ## Whitstable
 
